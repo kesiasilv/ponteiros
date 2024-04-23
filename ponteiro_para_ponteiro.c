@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//é a qunatidade de asterisco (*) na declaração do ponteiro que indica o número de níveis do ponteiro 
 int main(){
 	int x = 10;
 	int *p;
